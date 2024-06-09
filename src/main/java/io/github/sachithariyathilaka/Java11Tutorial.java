@@ -1,6 +1,7 @@
 package io.github.sachithariyathilaka;
 
 import io.github.sachithariyathilaka.feature.NewFileMethods;
+import io.github.sachithariyathilaka.feature.NewPatternRecognizeMethods;
 import io.github.sachithariyathilaka.feature.NewStringMethods;
 
 import java.io.IOException;
@@ -21,6 +22,9 @@ public class Java11Tutorial {
 
         // New file methods
         NewFileMethods.executeNewFileMethods();
+
+        // new pattern recognition methods
+        NewPatternRecognizeMethods.executeNewPatternRecognizeMethods();
     }
 
     /**

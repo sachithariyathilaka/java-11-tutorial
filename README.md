@@ -17,3 +17,4 @@ Java maven project for Java 11.
     * Changes
         * Java 11 new string methods related functionalities implemented.
         * Java 11 new file methods related functionalities implemented.
+        * Java 11 new pattern recognize methods related functionalities implemented.
