@@ -16,7 +16,7 @@ import java.nio.file.Path;
 public class NewFileMethods {
 
     /**
-     * Execute the new string methods.
+     * Execute the new file methods.
      */
     public static void executeNewFileMethods() throws IOException {
 

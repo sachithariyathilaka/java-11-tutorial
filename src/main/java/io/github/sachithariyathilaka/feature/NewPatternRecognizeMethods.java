@@ -17,7 +17,7 @@ import java.util.regex.Pattern;
 public class NewPatternRecognizeMethods {
 
     /**
-     * Execute the new string methods.
+     * Execute the new pattern recognition methods.
      */
     public static void executeNewPatternRecognizeMethods() {
 

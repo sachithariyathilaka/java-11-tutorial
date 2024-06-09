@@ -3,6 +3,7 @@ package io.github.sachithariyathilaka;
 import io.github.sachithariyathilaka.feature.NewFileMethods;
 import io.github.sachithariyathilaka.feature.NewPatternRecognizeMethods;
 import io.github.sachithariyathilaka.feature.NewStringMethods;
+import io.github.sachithariyathilaka.feature.NewTimeUnitConversionMethods;
 
 import java.io.IOException;
 
@@ -25,6 +26,9 @@ public class Java11Tutorial {
 
         // new pattern recognition methods
         NewPatternRecognizeMethods.executeNewPatternRecognizeMethods();
+
+        // new time unit conversion methods
+        NewTimeUnitConversionMethods.executeNewTimeUnitConversionMethods();
     }
 
     /**
