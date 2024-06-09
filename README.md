@@ -16,3 +16,4 @@ Java maven project for Java 11.
     * Module: Java 11 Tutorial
     * Changes
         * Java 11 new string methods related functionalities implemented.
+        * Java 11 new file methods related functionalities implemented.

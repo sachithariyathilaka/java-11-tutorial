@@ -1,6 +1,9 @@
 package io.github.sachithariyathilaka;
 
+import io.github.sachithariyathilaka.feature.NewFileMethods;
 import io.github.sachithariyathilaka.feature.NewStringMethods;
+
+import java.io.IOException;
 
 /**
  * Main class for the tutorial.
@@ -11,10 +14,13 @@ import io.github.sachithariyathilaka.feature.NewStringMethods;
  */
 public class Java11Tutorial {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         // New string methods
         NewStringMethods.executeNewStringMethods();
+
+        // New file methods
+        NewFileMethods.executeNewFileMethods();
     }
 
     /**
