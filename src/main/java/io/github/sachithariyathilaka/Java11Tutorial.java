@@ -1,9 +1,6 @@
 package io.github.sachithariyathilaka;
 
-import io.github.sachithariyathilaka.feature.NewFileMethods;
-import io.github.sachithariyathilaka.feature.NewPatternRecognizeMethods;
-import io.github.sachithariyathilaka.feature.NewStringMethods;
-import io.github.sachithariyathilaka.feature.NewTimeUnitConversionMethods;
+import io.github.sachithariyathilaka.feature.*;
 
 import java.io.IOException;
 
@@ -19,16 +16,19 @@ public class Java11Tutorial {
     public static void main(String[] args) throws IOException {
 
         // New string methods
-        NewStringMethods.executeNewStringMethods();
+        NewStringMethods.execute();
 
         // New file methods
-        NewFileMethods.executeNewFileMethods();
+        NewFileMethods.execute();
 
-        // new pattern recognition methods
-        NewPatternRecognizeMethods.executeNewPatternRecognizeMethods();
+        // New pattern recognition methods
+        NewPatternRecognizeMethods.execute();
 
-        // new time unit conversion methods
-        NewTimeUnitConversionMethods.executeNewTimeUnitConversionMethods();
+        // New time unit conversion methods
+        NewTimeUnitConversionMethods.execute();
+
+        // New time unit conversion methods
+        NewOptionalMethods.execute();
     }
 
     /**

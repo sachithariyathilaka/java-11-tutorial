@@ -19,7 +19,7 @@ public class NewPatternRecognizeMethods {
     /**
      * Execute the new pattern recognition methods.
      */
-    public static void executeNewPatternRecognizeMethods() {
+    public static void execute() {
 
         // Pattern detected
         asMatchPredicate("Medium Story", "Medium Story");

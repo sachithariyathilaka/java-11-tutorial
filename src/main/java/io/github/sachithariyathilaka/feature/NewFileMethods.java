@@ -18,7 +18,7 @@ public class NewFileMethods {
     /**
      * Execute the new file methods.
      */
-    public static void executeNewFileMethods() throws IOException {
+    public static void execute() throws IOException {
 
         // Write string method
         writeString("This string is for execute new file methods");

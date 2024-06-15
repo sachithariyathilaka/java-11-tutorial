@@ -18,7 +18,7 @@ public class NewTimeUnitConversionMethods {
     /**
      * Execute the new time unit conversion methods.
      */
-    public static void executeNewTimeUnitConversionMethods() {
+    public static void execute() {
         convert(TimeUnit.DAYS, Duration.ofHours(86400));
         convert(TimeUnit.DAYS, Duration.ofMinutes(86400));
         convert(TimeUnit.DAYS, Duration.ofSeconds(86400));

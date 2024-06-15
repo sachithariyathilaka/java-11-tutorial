@@ -16,7 +16,7 @@ public class NewStringMethods {
     /**
      * Execute the new string methods.
      */
-    public static void executeNewStringMethods() {
+    public static void execute() {
 
         // String is not blank
         isBlank("Medium Story");
