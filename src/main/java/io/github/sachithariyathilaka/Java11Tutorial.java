@@ -29,6 +29,9 @@ public class Java11Tutorial {
 
         // New time unit conversion methods
         NewOptionalMethods.execute();
+
+        // Lambda parameter syntax
+        LambdaParameterSyntax.execute();
     }
 
     /**

@@ -7,7 +7,7 @@ Java maven project for Java 11.
     * Maven
 
 * ### Configuration
-    * 
+    * https://sachithariyathilaka.medium.com/java-11-5861be97e895
 
 * ### Release Note
 
@@ -20,3 +20,4 @@ Java maven project for Java 11.
         * Java 11 new pattern recognize methods related functionalities implemented.
         * Java 11 new time unit conversion methods related functionalities implemented.
         * Java 11 new optional methods related functionalities implemented.
+        * Java 11 lambda parameter syntax related functionalities implemented.
