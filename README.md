@@ -6,13 +6,13 @@ Java maven project for Java 11.
     * Java Optional
     * Maven
 
-* ### Configuration
+* ### Documentation
     * [Medium Story](https://sachithariyathilaka.medium.com/java-11-5861be97e895)
 
 * ### Release Note
 
-    * Release: 1.0.0
-    * Date: 2024/06/08
+    * Version: 1.0.0
+    * Release Date: 2024/06/08
     * Module: Java 11 Tutorial
     * Changes
         * Java 11 new string methods related functionalities implemented.
