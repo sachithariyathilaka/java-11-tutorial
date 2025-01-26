@@ -7,7 +7,7 @@ Java maven project for Java 11.
     * Maven
 
 * ### Documentation
-    * [Medium Story](https://sachithariyathilaka.medium.com/java-11-5861be97e895)
+    * [Read on Medium](https://sachithariyathilaka.medium.com/java-11-5861be97e895)
 
 * ### Release Note
 
